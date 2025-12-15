@@ -17,5 +17,10 @@ This repository will contain sample Excel MIS reports and dashboards created to 
 - Data cleaning & validation
 - Management reporting
 
+## Certificates
+- [Advanced Excel Certificate](./Advance-Excel-Certificate.jpg)
+- [Power BI Certificate](./Power-BI-Certificate.pdf)
+- 
+
 ## Status
 🚧 Work in progress. Files will be added soon.
