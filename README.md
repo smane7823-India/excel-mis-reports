@@ -6,7 +6,7 @@ Sample Excel MIS reports &amp; dashboards (demonstration files, no confidential 
 This repository will contain sample Excel MIS reports and dashboards created to demonstrate my MIS reporting experience.
 
 ## Planned Content
-- Sales MIS Dashboard (Excel)
+- Sales MIS Dashboard (Excel/Poer BI)
 - Monthly Performance Report
 - Payment / Reconciliation Tracker
 - Attendance & Productivity Report
